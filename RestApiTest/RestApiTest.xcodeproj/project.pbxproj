@@ -18,6 +18,7 @@
 		9FBE5B6C173FB3C2009AA052 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FBE5B6B173FB3C2009AA052 /* Default-568h@2x.png */; };
 		9FBE5B6F173FB3C2009AA052 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FBE5B6D173FB3C2009AA052 /* MainStoryboard.storyboard */; };
 		9FBE5B72173FB3C2009AA052 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FBE5B71173FB3C2009AA052 /* ViewController.m */; };
+		9FBE5B79173FCCCC009AA052 /* testTTTTTT.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FBE5B78173FCCCC009AA052 /* testTTTTTT.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		9FBE5B6E173FB3C2009AA052 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		9FBE5B70173FB3C2009AA052 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		9FBE5B71173FB3C2009AA052 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9FBE5B78173FCCCC009AA052 /* testTTTTTT.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = testTTTTTT.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				9FBE5B70173FB3C2009AA052 /* ViewController.h */,
 				9FBE5B71173FB3C2009AA052 /* ViewController.m */,
 				9FBE5B5C173FB3C2009AA052 /* Supporting Files */,
+				9FBE5B78173FCCCC009AA052 /* testTTTTTT.xib */,
 			);
 			path = RestApiTest;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				9FBE5B6A173FB3C2009AA052 /* Default@2x.png in Resources */,
 				9FBE5B6C173FB3C2009AA052 /* Default-568h@2x.png in Resources */,
 				9FBE5B6F173FB3C2009AA052 /* MainStoryboard.storyboard in Resources */,
+				9FBE5B79173FCCCC009AA052 /* testTTTTTT.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
