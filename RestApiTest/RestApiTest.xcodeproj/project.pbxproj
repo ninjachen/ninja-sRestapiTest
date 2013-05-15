@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F7B0AF017426F60005F40CD /* settingButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7B0AEF17426F60005F40CD /* settingButton.png */; };
 		9FBE5B56173FB3C2009AA052 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FBE5B55173FB3C2009AA052 /* UIKit.framework */; };
 		9FBE5B58173FB3C2009AA052 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FBE5B57173FB3C2009AA052 /* Foundation.framework */; };
 		9FBE5B5A173FB3C2009AA052 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FBE5B59173FB3C2009AA052 /* CoreGraphics.framework */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F7B0AEF17426F60005F40CD /* settingButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settingButton.png; sourceTree = "<group>"; };
 		9FBE5B52173FB3C2009AA052 /* RestApiTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestApiTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FBE5B55173FB3C2009AA052 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9FBE5B57173FB3C2009AA052 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -81,10 +83,10 @@
 		9FBE5B5B173FB3C2009AA052 /* RestApiTest */ = {
 			isa = PBXGroup;
 			children = (
+				9FBE5B71173FB3C2009AA052 /* ViewController.m */,
 				9FBE5B64173FB3C2009AA052 /* AppDelegate.h */,
 				9FBE5B65173FB3C2009AA052 /* AppDelegate.m */,
 				9FBE5B70173FB3C2009AA052 /* ViewController.h */,
-				9FBE5B71173FB3C2009AA052 /* ViewController.m */,
 				9FBE5B5C173FB3C2009AA052 /* Supporting Files */,
 			);
 			path = RestApiTest;
@@ -93,6 +95,7 @@
 		9FBE5B5C173FB3C2009AA052 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9F7B0AEF17426F60005F40CD /* settingButton.png */,
 				9FBE5B5D173FB3C2009AA052 /* RestApiTest-Info.plist */,
 				9FBE5B5E173FB3C2009AA052 /* InfoPlist.strings */,
 				9FBE5B61173FB3C2009AA052 /* main.m */,
@@ -159,6 +162,7 @@
 				9FBE5B68173FB3C2009AA052 /* Default.png in Resources */,
 				9FBE5B6A173FB3C2009AA052 /* Default@2x.png in Resources */,
 				9FBE5B6C173FB3C2009AA052 /* Default-568h@2x.png in Resources */,
+				9F7B0AF017426F60005F40CD /* settingButton.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
