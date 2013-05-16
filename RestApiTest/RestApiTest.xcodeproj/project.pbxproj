@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F126FD417453D010035529C /* backButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F126FD317453D010035529C /* backButton.png */; };
 		9F7B0AF017426F60005F40CD /* settingButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7B0AEF17426F60005F40CD /* settingButton.png */; };
 		9FBE5B56173FB3C2009AA052 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FBE5B55173FB3C2009AA052 /* UIKit.framework */; };
 		9FBE5B58173FB3C2009AA052 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FBE5B57173FB3C2009AA052 /* Foundation.framework */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F126FD317453D010035529C /* backButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = backButton.png; path = ../../../WorkAttendance/WorkAttendance/backButton.png; sourceTree = "<group>"; };
 		9F7B0AEF17426F60005F40CD /* settingButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settingButton.png; sourceTree = "<group>"; };
 		9FBE5B52173FB3C2009AA052 /* RestApiTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestApiTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FBE5B55173FB3C2009AA052 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -96,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				9F7B0AEF17426F60005F40CD /* settingButton.png */,
+				9F126FD317453D010035529C /* backButton.png */,
 				9FBE5B5D173FB3C2009AA052 /* RestApiTest-Info.plist */,
 				9FBE5B5E173FB3C2009AA052 /* InfoPlist.strings */,
 				9FBE5B61173FB3C2009AA052 /* main.m */,
@@ -163,6 +166,7 @@
 				9FBE5B6A173FB3C2009AA052 /* Default@2x.png in Resources */,
 				9FBE5B6C173FB3C2009AA052 /* Default-568h@2x.png in Resources */,
 				9F7B0AF017426F60005F40CD /* settingButton.png in Resources */,
+				9F126FD417453D010035529C /* backButton.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
